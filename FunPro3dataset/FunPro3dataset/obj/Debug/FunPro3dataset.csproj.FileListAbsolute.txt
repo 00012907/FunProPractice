@@ -1,0 +1,11 @@
+C:\Users\acer\source\repos\FunPro3dataset\FunPro3dataset\bin\Debug\db.mdb
+C:\Users\acer\source\repos\FunPro3dataset\FunPro3dataset\bin\Debug\FunPro3dataset.exe.config
+C:\Users\acer\source\repos\FunPro3dataset\FunPro3dataset\bin\Debug\FunPro3dataset.exe
+C:\Users\acer\source\repos\FunPro3dataset\FunPro3dataset\bin\Debug\FunPro3dataset.pdb
+C:\Users\acer\source\repos\FunPro3dataset\FunPro3dataset\obj\Debug\FunPro3dataset.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\FunPro3dataset\FunPro3dataset\obj\Debug\FunPro3dataset.Form1.resources
+C:\Users\acer\source\repos\FunPro3dataset\FunPro3dataset\obj\Debug\FunPro3dataset.Properties.Resources.resources
+C:\Users\acer\source\repos\FunPro3dataset\FunPro3dataset\obj\Debug\FunPro3dataset.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\FunPro3dataset\FunPro3dataset\obj\Debug\FunPro3dataset.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\FunPro3dataset\FunPro3dataset\obj\Debug\FunPro3dataset.exe
+C:\Users\acer\source\repos\FunPro3dataset\FunPro3dataset\obj\Debug\FunPro3dataset.pdb
